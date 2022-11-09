@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/davidhsingyuchen/test/compare/v1.0.0...v1.0.1) (2022-11-09)
+
+
+### Build System or External Dependencies
+
+* **deps:** should bump to v1.0.1 ([06a347e](https://github.com/davidhsingyuchen/test/commit/06a347ee340d390edaae5dc1d56e54f489aa26ff))
+
 ## 1.0.0 (2022-11-09)
 
 
