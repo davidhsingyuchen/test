@@ -27,7 +27,7 @@ jobs:
                 "type":"build",
                 "section":"Build System or External Dependencies",
                 "hidden":false
-              },
+              }
             ]
           # Before we are at v1
           bump-minor-pre-major: true
