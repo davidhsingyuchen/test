@@ -30,4 +30,4 @@ jobs:
               }
             ]
           # Before we are at v1
-          bump-minor-pre-major: true
+          bump-minor-pre-major: true 
