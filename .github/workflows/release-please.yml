@@ -26,7 +26,7 @@ jobs:
               {
                 "type":"build",
                 "section":"Build System or External Dependencies",
-                "hidden":false
+                "hidden":true
               }
             ]
           # Before we are at v1
