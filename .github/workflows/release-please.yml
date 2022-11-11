@@ -11,23 +11,23 @@ jobs:
         with:
           release-type: go
           package-name: test
-          changelog-types: >
-            [
-              {
-                "type":"feat",
-                "section":"Features",
-                "hidden":false
-              },
-              {
-                "type":"fix",
-                "section":"Bug Fixes",
-                "hidden":false
-              },
-              {
-                "type":"build",
-                "section":"Build System or External Dependencies",
-                "hidden":true
-              }
-            ]
+          # changelog-types: >
+          #   [
+          #     {
+          #       "type":"feat",
+          #       "section":"Features",
+          #       "hidden":false
+          #     },
+          #     {
+          #       "type":"fix",
+          #       "section":"Bug Fixes",
+          #       "hidden":false
+          #     },
+          #     {
+          #       "type":"build",
+          #       "section":"Build System or External Dependencies",
+          #       "hidden":true
+          #     }
+          #   ]
           # Before we are at v1
           bump-minor-pre-major: true 
