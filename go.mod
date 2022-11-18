@@ -4,7 +4,7 @@ go 1.19
 
 require github.com/spf13/afero v1.9.3
 
-require github.com/onsi/gomega v1.23.0
+require github.com/onsi/gomega v1.24.1
 
 require (
 	github.com/google/go-cmp v0.5.9 // indirect
