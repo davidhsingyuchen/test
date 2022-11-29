@@ -12,4 +12,4 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Should be triggered if CHANGELOG.md is modified"
+      - run: echo "from ci.yml"

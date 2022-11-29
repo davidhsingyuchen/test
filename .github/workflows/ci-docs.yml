@@ -11,4 +11,4 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Should not be triggered if CHANGELOG.md is modified"
+      - run: echo "from ci-docs.yml"
