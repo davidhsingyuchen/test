@@ -1,0 +1,15 @@
+name: ci
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - '**'
+      - '!**.md'
+      - 'CHANGELOG.md'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Should be triggered if CHANGELOG.md is modified"

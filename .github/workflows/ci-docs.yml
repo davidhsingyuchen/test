@@ -1,0 +1,14 @@
+name: ci-docs
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - '**.md'
+      - '!CHANGELOG.md'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Should not be triggered if CHANGELOG.md is modified"
