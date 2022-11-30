@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/davidhsingyuchen/test/compare/v1.0.1...v1.0.2) (2022-11-30)
+
+
+### Bug Fixes
+
+* create a release-please PR ([091c7b3](https://github.com/davidhsingyuchen/test/commit/091c7b3acbebd1a4bf0ea7031a1519bf9d9a4697))
+
 ## [1.0.1](https://github.com/davidhsingyuchen/test/compare/v1.0.0...v1.0.1) (2022-11-09)
 
 
