@@ -2,7 +2,7 @@ module test
 
 go 1.19
 
-require github.com/spf13/afero v1.9.3
+require github.com/spf13/afero v1.9.5
 
 require github.com/onsi/gomega v1.23.0
 
